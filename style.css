@@ -1,0 +1,30 @@
+/* style for index.html*/
+
+
+@media screen and (max-width:996px)	{
+	body {
+	background-color: aliceblue;
+	height: 100%;
+	width: 996;
+
+}
+	}
+.container{
+	border: 2px solid red;
+
+}
+
+.header {
+	text-align: center;
+}
+
+#start {
+	width: 100%;
+    bottom-margin: 5px;
+}
+
+
+.container-fluid {
+	border: 1px solid black;
+	font-weight: bold;
+}
